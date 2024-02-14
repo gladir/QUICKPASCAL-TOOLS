@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans QUICKPASCAL-TOOLS :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>QPERR.PAS</b></td>
+			<td>Cette commande permet d'afficher un code d'erreur QuickPascal.</td>
+		</tr>	
+		<tr>
 			<td><b>QPUDEP.PAS</b></td>
 			<td>Cette commande permet d'afficher les dépendances d'un unité QPU de QuickPascal.</td>
 		</tr>
